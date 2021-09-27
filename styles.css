@@ -1,0 +1,25 @@
+#background{
+
+    background-color: #D1650C;
+}
+
+#header{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 150px;
+    font-size: 100px;
+    color: white;
+}
+
+#second-head{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+
+}
+.btn{
+    background-color: #ffffff
+
+    !important;
+    margin-top: 50px;
+}
