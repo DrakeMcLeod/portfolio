@@ -1,7 +1,3 @@
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
-
-
-
 .firstDiv{
     background-color: #223843 !important;
     
@@ -50,14 +46,10 @@
    text-decoration: none;
 }
 .secondDiv{
-    background-color: #7D98A1  !important;
-}
-.centerContent{
-    padding-bottom: 30%;
+    background-color: #288080  !important;
 }
 
-.bi {
-    vertical-align: -.125em;
-    fill: currentColor;
-  }
-  
+.mainspacing{
+    padding-bottom: 50%;
+    padding-top: 10%;
+}
