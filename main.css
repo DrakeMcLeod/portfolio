@@ -46,5 +46,16 @@
    text-decoration: none;
 }
 .secondDiv{
-    background-color: #7D98A1  !important;
+    background-color: #288080  !important;
 }
+
+.mainspacing{
+    padding-bottom: 50%;
+    padding-top: 10%;
+}
+
+.beach{
+    border-radius: 12px;
+    box-shadow: 10px 10px 5px rgb(24, 29, 26);
+}
+
